@@ -1,0 +1,33 @@
+
+
+.bttn{
+    font-size: large;
+    display: inline-block;
+}
+
+
+.bt1{
+    background-color:rgb(241, 175, 53);
+    width: 300px;
+    height: 40px;
+}
+
+
+.bt2{
+    background-color:rgb(231, 118, 118);
+    width: 300px;
+    height: 40px;
+}
+
+
+.heade
+{
+    color: seagreen;
+}
+
+
+.counter
+{
+    color:thistle;
+}
+

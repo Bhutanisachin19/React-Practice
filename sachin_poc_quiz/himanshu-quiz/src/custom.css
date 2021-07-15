@@ -1,0 +1,23 @@
+.input1{
+  width: 80%;
+  margin-left: 5px;
+  border-radius: 10px;
+
+}
+.input2{
+  width: 100%;
+  margin-left: 5px;
+  border-radius: 10px;
+
+}
+.btn1{
+ 
+    border: 1px solid rgba(92, 91, 91, 0);
+    border-radius: 10px;
+    background-color: rgb(243, 238, 238);
+    margin-left: 5px;
+
+}
+.fontt{
+  font-size: 30px;
+}
